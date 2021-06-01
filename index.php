@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Coffee</title>
+	<title>Anzala Coffee</title>
 	<link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body background="../image/f.jpg">
@@ -20,7 +20,7 @@
     <label><b><font color="ffffff">Password</b></label>
     <input type="password" name="password" class="form_login" placeholder="Password" required>
         
-    <button type="submit">Masuk</button>
+    <button type="submit">Login yuk</button>
     
   </div>
   <a href="../view/login.php" class="btn btn-secondary"><i class="fa fa-google"></i><h2><font color="ffffff">GOOGLE</h2></a>
