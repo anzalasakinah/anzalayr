@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>STARBUCKS</title>
+	<title>Coffee</title>
 	<link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body background="../image/f.jpg">
 
-<h2> <font color="ffffff">STARBUCKS </h2>
+<h2> <font color="ffffff">Coffee </h2>
 
 <form action="../controller/proses.login.php?aksi=login" method="post">
   <div class="imgcontainer">
-    <img src="../image/v.jpg" alt="Avatar" class="avatar">
+    <img src="../image/aku.jpg" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
